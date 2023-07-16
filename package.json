@@ -1,0 +1,22 @@
+{
+  "name": "translate_terminal",
+  "version": "1.0.0",
+  "description": "A terminal application which can translate English to Chinese.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translate",
+    "英译汉"
+  ],
+  "author": "meowrain",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "crypto-js": "^4.1.1",
+    "ora": "^5.4.1"
+  }
+}
