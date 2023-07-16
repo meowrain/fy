@@ -13,7 +13,7 @@ fy 是一个简单的命令行翻译工具，基于百度翻译 API 实现。它
 使用 npm 全局安装 fy：
 
 ```shell
-npm install -g fy
+npm install -g fy-meow
 ```
 
 
